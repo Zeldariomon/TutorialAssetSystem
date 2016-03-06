@@ -1,0 +1,9 @@
+{
+    "id" : "TutorialAssetSystem",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "oniatus",
+    "displayName" : "TutorialAssetSystem",
+    "description" : "Tutorial module for basic usage of assets",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
