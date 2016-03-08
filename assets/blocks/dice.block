@@ -1,0 +1,17 @@
+{
+    "displayName": "Dice 6",
+    "categories" : ["dice"],
+    "hardness": 1,
+    "tiles" : {
+        "top" : "dice1",
+        "bottom" : "dice6",
+        "front" : "dice2",
+        "back" : "dice5",
+        "left" : "dice3",
+        "right" : "dice4"
+    },
+    "rotation" : "all",
+    "entity" : {
+        "prefab" : "dice"
+    }
+}
