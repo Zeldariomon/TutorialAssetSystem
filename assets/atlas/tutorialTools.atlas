@@ -1,5 +1,5 @@
 {
-    "texture" : "TutorialAssets:tutorialTools",
+    "texture" : "TutorialAssetSystem:tutorialTools",
     "textureSize" : [32, 32],
     "grid" : {
         "tileSize" : [16, 16],
