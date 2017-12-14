@@ -1,0 +1,14 @@
+{
+    "displayName": "zdmn",
+    "categories" : ["information"],
+    "hardness": 42,
+    "tiles" : {
+       "top" : "dice1",
+       "bottom" : "dice1",
+       "front" : "z",
+       "back" : "d",
+       "left" : "m",
+       "right" : "n"
+    }
+    "rotation" : "all",
+}
